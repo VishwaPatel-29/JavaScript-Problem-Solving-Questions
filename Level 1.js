@@ -1,5 +1,4 @@
 //1st Que -> Check if Number is Even or Odd:
-// Complete file is true but question 9 can't access because of prompt.
 var num = 5;
 if(num % 2 == 0){
     console.log("Even");
@@ -125,4 +124,5 @@ if(k <= 50 && k >= 10){
 }
 else{
     console.log("The Number isn't in The Range");
+
 }
